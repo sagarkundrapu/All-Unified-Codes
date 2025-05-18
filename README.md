@@ -1,2 +1,2 @@
 # All-Unified-Codes
-All project codes using perplexity
+All Unified Mentor project codes using AI
